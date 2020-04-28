@@ -1,7 +1,8 @@
 # Bokeh-Covid-19-Visulazitation
 Visualization data Covid-19 with python Bokeh
 
-## Student's Name and Id
+## Student's Name, Id, and link video
+Link Video [Here](https://youtu.be/mOa9NLljNtQ)
 * I Made Bila Arta Wirawan  - 1301164402
 * Abrar Halim Novidra       - 1301164383
 
