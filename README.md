@@ -7,12 +7,23 @@ using data from [data.humdata.org](data.humdata.org/). the Data can be download 
 ## Prerequisites
 * Pandas
 * Bokeh
+* Jupyter Notebook
+* Anaconda
 
 Install Bokeh version 2.0.1 from CMD
 ```
-pip install bokeh
+$ pip install bokeh
 ```
 or install from Anaconda
 ```
-conda install bokeh
+$ conda install bokeh
 ```
+## How to run
+* Open Anaconda
+* Go to directory Bokeh-Covid-19-Visualization
+* Type :
+```
+$ jupyter notebook
+```
+* Open file Visdat.ipynb
+* Run All cells
