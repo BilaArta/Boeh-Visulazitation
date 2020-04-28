@@ -1,6 +1,10 @@
 # Bokeh-Covid-19-Visulazitation
 Visualization data Covid-19 with python Bokeh
 
+## Student's Name and Id
+* I Made Bila Arta Wirawan  - 1301164402
+* Abrar Halim Novidra       - 1301164383
+
 ## Data
 using data from [data.humdata.org](data.humdata.org/). the Data can be download [HERE](https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases)
 
